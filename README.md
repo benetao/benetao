@@ -1,4 +1,5 @@
-<h2 align="center"> Olá, eu sou a Isabela Beneti, e seja bem vindo(a) ao meu Github! </h2>
+<p align="center"><img heigth= 120 width= 550 src="https://user-images.githubusercontent.com/106626661/193430389-4b67e76d-c379-41ea-b583-86e336933f1c.png"></p>
+
 
 - 🙋‍♀️ Sou graduanda do Bacharelado em Ciência e Tecnologia, da Ilum: Escola de Ciência
 - 💜 A Ilum é uma iniciativa da instituição social CNPEM

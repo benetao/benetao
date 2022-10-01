@@ -1,10 +1,10 @@
-### Olá 👋 meu nome é Isabela Beneti!
+<h2 align="center"> Olá, eu sou a Isabela Beneti, e seja bem vindo(a) ao meu Github! </h2>
 
-- 📖 Sou graduanda do Bacharelado em Ciência e Tecnologia, da Ilum: Escola de Ciência
+- 🙋‍♀️ Sou graduanda do Bacharelado em Ciência e Tecnologia, da Ilum: Escola de Ciência
 - 💜 A Ilum é uma iniciativa da instituição social CNPEM
-- 💻 No curso, temos disciplinas de programação, incluindo Práticas Básicas e Aprendizado de Máquina
-- 👁 Aqui, você poderá ver todos os repositórios que criei ao longo da minha trajetória acadêmica!
-- 📧 Se tiver interesse, contate-me pelo email: isabela220039@ilum.cnpem.br
+- 👾 No curso, temos disciplinas de programação, incluindo Práticas Básicas e Aprendizado de Máquina
+- 🟣 Aqui, você poderá ver todos os repositórios que criei ao longo da minha trajetória acadêmica!
+- 🙆‍♀️ Se tiver interesse, contate-me pelo email: isabela220039@ilum.cnpem.br
 <div align="center">
   <a href="https://github.com/benetao">
   <img height="130em" src="https://github-readme-stats.vercel.app/api?username=benetao&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/> <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=benetao&layout=compact&langs_count=7&theme=synthwave"/>

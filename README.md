@@ -3,7 +3,7 @@
 
 - 🙋‍♀️ Sou graduanda do Bacharelado em Ciência e Tecnologia, da Ilum: Escola de Ciência
 - 💜 A Ilum é uma iniciativa da instituição social CNPEM
-- 👾 No curso, temos disciplinas de programação, incluindo Práticas Básicas e Aprendizado de Máquina
+- 👾 No curso, temos disciplinas de programação, incluindo Aprendizado de Máquina e Redes Neurais
 - 🟣 Aqui, você poderá ver todos os repositórios que criei ao longo da minha trajetória acadêmica!
 - 🙆‍♀️ Se tiver interesse, contate-me pelo email: isabela220039@ilum.cnpem.br
 <div align="center">
